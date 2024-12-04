@@ -1,0 +1,15 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: greenyellow;
+    border: 2px solid red;
+}
+.box2{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.box3{
+    margin-left: auto;
+}

@@ -1,0 +1,8 @@
+.box{
+
+    border: 2px black solid;
+    background-color: green;
+    width: 600px;
+    height: 500px;
+    color: aliceblue;
+}
